@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Rose",
+        "color": "Red",
+        "sunlight": "Full Sun",
+        "watering": "Regular",
+        "popularity_score": 9.8
+    },
+    {
+        "id": "2",
+        "name": "Tulip",
+        "color": "Various",
+        "sunlight": "Partial Sun",
+        "watering": "Moderate",
+        "popularity_score": 9.5
+    },
+    {
+        "id": "3",
+        "name": "Orchid",
+        "color": "Various",
+        "sunlight": "Indirect Sunlight",
+        "watering": "Weekly",
+        "popularity_score": 8.8
+    },
+    {
+        "id": "4",
+        "name": "Sunflower",
+        "color": "Yellow",
+        "sunlight": "Full Sun",
+        "watering": "Regular",
+        "popularity_score": 6.8
+    },
+    {
+        "id": "5",
+        "name": "Lily",
+        "color": "Various",
+        "sunlight": "Partial Sun",
+        "watering": "Regular",
+        "popularity_score": 7.7
+    },
+    {
+        "id": "6",
+        "name": "Daisy",
+        "color": "White",
+        "sunlight": "Full Sun",
+        "watering": "Regular",
+        "popularity_score": 8.2
+    },
+    {
+        "id": "7",
+        "name": "Lavender",
+        "color": "Purple",
+        "sunlight": "Full Sun",
+        "watering": "Low",
+        "popularity_score": 9.0
+    },
+    {
+        "id": "8",
+        "name": "Cherry Blossom",
+        "color": "Pink",
+        "sunlight": "Partial Sun",
+        "watering": "Regular",
+        "popularity_score": 9.3
+    },
+    {
+        "id": "9",
+        "name": "Peony",
+        "color": "Pink",
+        "sunlight": "Partial Sun",
+        "watering": "Regular",
+        "popularity_score": 8.7
+    },
+    {
+        "id": "10",
+        "name": "Daffodil",
+        "color": "Yellow",
+        "sunlight": "Full Sun",
+        "watering": "Regular",
+        "popularity_score": 8.0
+    }
+]
